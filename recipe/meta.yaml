@@ -1,4 +1,4 @@
-{% set version = "0.1.1" %}
+{% set version = "0.2.0" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/caf.cvt/caf_cvt-{{ version }}.tar.gz
-  sha256: ac34aa0c5fa3a46cbfc0483861d30ca5e929945b8c19a7a6aec384f4e57ba49f
+  sha256: de270fc1638ba8512ef53bb476cdd00b12207c6e03d5e43a09d874c5ad57b7db
 
 build:
   entry_points:
