@@ -34,6 +34,13 @@ requirements:
     - scikit-learn >=1.7.2
     - shapely >=2.1.2
     - xarray >=2025.10.1
+    - netcdf4>=1.7.4
+    - pyarrow>=24.0.0
+    - pytables>=3.11.1
+    - contextily>=1.7.0
+    - matplotlib>=3.10.8
+    - xyzservices>=2026.3.0
+    - osbng>=0.5.1
 
 test:
   imports:
