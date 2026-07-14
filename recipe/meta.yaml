@@ -38,7 +38,7 @@ requirements:
     - pyarrow >=24.0.0
     - pytables >=3.11.1
     - contextily >=1.7.0
-    - matplotlib >=3.10.8
+    - matplotlib-base >=3.10.8
     - xyzservices >=2026.3.0
     - osbng >=0.5.1
 
